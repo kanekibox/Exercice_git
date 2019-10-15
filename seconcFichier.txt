@@ -1,0 +1,2 @@
+Une premiere ligne du seconcFichier
+Une seconde ligne du seconcFichier
